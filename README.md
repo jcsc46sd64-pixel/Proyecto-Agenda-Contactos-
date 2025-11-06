@@ -7,3 +7,5 @@ Contacto::Contacto(std::string n, std::string t, std::string c)
 void Contacto::mostrar() const {
     std::cout << "Nombre: " << nombre << "\nTeléfono: " << telefono << "\nCorreo: " << correo << "\n";
 }
+
+hello
